@@ -7,7 +7,7 @@ I usually **save codes** developed during my classes, creating my ways on how to
 
 ## Who I Am?
 Hi, my name is Jose Miguel Vera Garzón and I am on my path to **developing horror video games**, I may not be close, but I am still shaping my destiny. You can contact me by this means:
- > [veraj0801@gmail.com] (https://mail.google.com/mail/u/0/#inbox)
+ > [veraj0801@gmail.com]
 
 I know programming languages such as:
 + C++
