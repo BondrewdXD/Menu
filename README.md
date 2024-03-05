@@ -12,7 +12,7 @@ Hi, my name is Jose Miguel Vera Garzón and I am on my path to **developing horr
 I know programming languages such as:
 + C++
 + Java 
-## What You Cand Find Here?
+## What You Can Find Here?
 In this repository I'm going to save the codes that I develop in my classes.
 
 ¡I hope that you like it and have fun with me!
