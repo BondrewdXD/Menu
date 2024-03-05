@@ -1,5 +1,4 @@
 # Menu
-Brief Description Of What I Do, Who I Am, And What You Can Find Here
 
 ## What I DO ?
 **System engineer**, third semester, student at the Corporacion Universitaria del Huila (CORHUILA) university.
